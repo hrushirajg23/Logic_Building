@@ -1,0 +1,2 @@
+He decided to create his own PC-based version of UNIX.
+ Months of determined programming work yielded the beginnings of an operating system known as LINUX

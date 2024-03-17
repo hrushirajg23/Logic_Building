@@ -1,0 +1,38 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ClassDemo",
+      "request": "launch",
+      "mainClass": "ClassDemo",
+      "projectName": "PPA_cb9e39bb"
+    },
+    {
+      "type": "java",
+      "name": "Simple",
+      "request": "launch",
+      "mainClass": "Simple",
+      "projectName": "PPA_cb9e39bb"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/hrush_ogkofwb/OneDrive/Desktop/PPA",
+      "program": "c:/Users/hrush_ogkofwb/OneDrive/Desktop/PPA/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
